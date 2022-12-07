@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2mw5YXSB3rBpAMEDiO8AQimZEAAAiGH0beq+IFR3TiX/BTtb5XAZ8VFM1crnUivB1j1ztVi0g44BmavfWdONmQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eletr\\Desktop\\UC-15\\Projeto_Teste\\Projeto_Teste\\Projeto_Teste.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eletr\\.nuget\\packages\\castle.core\\5.1.0\\castle.core.5.1.0.nupkg.sha512",
+    "C:\\Users\\eletr\\.nuget\\packages\\moq\\4.18.3\\moq.4.18.3.nupkg.sha512",
+    "C:\\Users\\eletr\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
